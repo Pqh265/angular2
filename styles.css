@@ -1,0 +1,236 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font-size:14px;
+  color: #222222;
+  font-weight:400;
+  line-height:1.35;
+
+  font-family:'Be Vietnam Pro', sans-serif;
+}
+li{
+  list-style:none ;
+}
+a{
+  text-decoration: none;
+}
+img{
+  max-width: 100%;
+}
+.section{
+  float: left;
+  width:100%;
+}
+.container{
+  float:none;
+  width:1200px;
+  margin: 0 auto;
+}
+.header{
+
+  float:left;
+
+}
+.logo{
+  float:left;
+  padding-left:80px;
+}
+
+
+
+.top-page input{
+  font-size:20px
+
+}
+.top-page{
+  float:right;
+  padding:40px 0;
+}
+.top-page a{
+  padding-left:10px;
+  font-size: 20px;
+
+}
+.top-page button{
+
+  background-color: rgb(19, 19, 19);
+  border: 1px solid rgba(255, 183, 0, 0.8) ;
+  color:rgba(255, 183, 0, 0.8);
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.top-page i{
+  color:rgba(255, 183, 0, 0.8);
+}
+.navigation{
+  border-top:2px solid #936c16;
+  background-color: rgb(19, 19, 19);
+
+}
+.navigator{
+  float:left;
+  padding:20px 0;
+  color: rgba(255, 183, 0, 0.8);
+
+}
+.navigator a{
+  color: rgba(255, 183, 0, 0.8);
+}
+.navbar-band{
+  color: rgba(255, 183, 0, 0.8);
+}
+.navigator button{
+  color: rgba(255, 183, 0, 0.8);
+}
+.navigator li{
+  float: left;
+  padding-right:55px;
+  color: rgba(255, 183, 0, 0.8);
+}
+.navigator li a{
+  color: rgba(255, 183, 0, 0.8);
+  font-size:15px;
+}
+.cart{
+  border-right: thin solid rgba(255, 183, 0, 0.8);
+  float:right;
+  padding: 30px 50px;
+}
+.login{
+  float:right;
+  padding: 25px 70px;
+}
+.cart i{
+  font-size:25px;
+  color: rgba(255, 183, 0, 0.8);
+}
+.login i{
+  font-size:25px;
+  color: rgba(255, 183, 0, 0.8);
+  background-color:rgb(19, 19, 19);
+}
+.login button{
+  background-color:rgb(19, 19, 19);
+  color:rgba(255, 183, 0, 0.8);
+}
+
+.contact{
+  float:left;
+}
+.socialmedia{
+  padding-top:20px;
+  float:right;
+  padding-right:70px;
+}
+.socialmedia i{
+  font-size:35px;
+  color: rgba(255, 183, 0, 0.8);
+
+}
+.contact li{
+  color:rgba(255, 183, 0, 0.8);
+}
+.contact a{
+  color:rgba(255, 183, 0, 0.8);
+}
+.main{
+  min-height: calc(100vh - 300px);
+}
+.footer{
+  height:300px;
+}
+.logo img{
+  width:250px;
+}
+.socialmedia h3{
+  color:rgba(255, 183, 0, 0.8);
+  font-size:25px;
+}
+.socialmedia a{
+  padding:5px;
+}
+.socialmedia i:hover{
+  transform: scale(1.5);
+}
+.cart i:hover{
+  transform: scale(1.5);
+}
+.map{
+  margin-left:25px;
+}
+.login i:hover{
+  transform: scale(1.5);
+}
+.modal-header h5{
+
+  text-align: center;
+  font-size:25px;
+}
+.modal-body i {
+  font-size: 25px;
+  margin-left: 15px;
+  padding:10px;
+  box-shadow: #1a1e21;
+}
+.modal-body input{
+  font-size: 25px;
+  margin-right:15px;
+}
+.modal-body button{
+  padding:10px;
+  margin-left:180px;
+  box-shadow: #1a1e21;
+}
+.title h1{
+  text-align: center;
+  margin-top:10px;
+  margin-bottom: 10px;
+  font-size:25px;
+
+}
+.jobinfo{
+
+  width:100%;
+  margin-top:10px;
+  margin-bottom: 10px;
+  height:100px;
+}
+.jobinfo img{
+  width:10%;
+  float:left;
+  height:90px;
+  margin-bottom: 20px;
+
+}
+.jobinfo h2{
+  width:80%;
+  font-size: 22px;
+  margin-left:120px;
+
+
+}
+.jobinfo h3{
+  width:80%;
+  font-size:20px;
+  margin-left:120px;
+
+  color: rgba(70, 63, 63, 0.73);
+}
+hr{
+  margin-top:40px;
+}
+.header .container a{
+  float:left;
+  margin-left:20px;
+
+}
+
+
+
